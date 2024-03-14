@@ -1,0 +1,14 @@
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\bin\Debug\net8.0\loggin.exe
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\bin\Debug\net8.0\loggin.deps.json
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\bin\Debug\net8.0\loggin.runtimeconfig.json
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\bin\Debug\net8.0\loggin.dll
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\bin\Debug\net8.0\loggin.pdb
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\obj\Debug\net8.0\loggin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\obj\Debug\net8.0\loggin.AssemblyInfoInputs.cache
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\obj\Debug\net8.0\loggin.AssemblyInfo.cs
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\obj\Debug\net8.0\loggin.csproj.CoreCompileInputs.cache
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\obj\Debug\net8.0\loggin.dll
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\obj\Debug\net8.0\refint\loggin.dll
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\obj\Debug\net8.0\loggin.pdb
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\obj\Debug\net8.0\loggin.genruntimeconfig.cache
+C:\Users\Kwabe\Desktop\Code\Csharp\loggin\obj\Debug\net8.0\ref\loggin.dll
